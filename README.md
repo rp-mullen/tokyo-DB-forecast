@@ -30,7 +30,17 @@ regression on the month's data.
 python predictor.py
 ```
 
-### Example
+### Example Output:
 <p align="center">
   <img src="https://github.com/rp-mullen/tokyo-weather/blob/main/output.png"/>
 </p>
+
+```
+             Statistics                
+---------------------------------------
+* data range (days): [10] - [28]
+* determination coefficient: 0.15587487339566208
+* intercept: 291.5791153369279
+* coefficient: [-0.35248383]
+
+```
