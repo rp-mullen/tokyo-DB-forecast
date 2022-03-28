@@ -17,7 +17,7 @@ chmod +x main.py
 sudo crontab -e
 ```
 
-Then, add to the job editor:
+Then, add the main script to the job editor:
 
 ```
 0 * * * * <path to file>/main.py
