@@ -7,7 +7,7 @@ for the given month, compiles the hourly datasets into daily averages,
 then uses linear regression to predict the future Temperature in Tokyo for a
 specified number of days past the last day recorded.
 
-The scheduled script requires a (MariaDB)[https://mariadb.com/get-started-with-mariadb/] server to be running locally on the user's computer. 
+The scheduled script requires a [MariaDB](https://mariadb.com/get-started-with-mariadb/) server to be running locally on the user's computer. 
 
 ## Usage
 
