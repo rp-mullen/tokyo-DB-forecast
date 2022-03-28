@@ -9,7 +9,7 @@ specified number of days past the last day recorded.
 
 ## Usage
 
-To Run:
+To Schedule:
 ```
 chmod +x main.py
 sudo crontab -e
@@ -29,3 +29,6 @@ python predictor.py
 ```
 
 ### Example
+<p align="center">
+  <img src="https://github.com/rp-mullen/tokyo-weather/blob/main/output.png"/>
+</p>
