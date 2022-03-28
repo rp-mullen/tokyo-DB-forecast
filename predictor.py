@@ -28,7 +28,6 @@ today = datetime_ist.strftime('%Y:%m:%d %H:%M:%S %Z %z')
 date = "'" + today.split(' ')[0] + "'"
 
 month = date.split(":")[1]
-print(month)
 
 # query DB
 cur.execute(
@@ -79,8 +78,7 @@ avgs[index] = avgs[index]/count
 times = np.array(times).reshape((-1,1))
 avgs = np.array(avgs)
 
-print(avgs)
-
+# regression
 model = LinearRegression()
 model.fit(times,avgs)
 
