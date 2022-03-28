@@ -30,10 +30,12 @@ regression on the month's data.
 python predictor.py
 ```
 
-### Example Output:
+## Example Output:
 <p align="center">
   <img src="https://github.com/rp-mullen/tokyo-weather/blob/main/output.png"/>
 </p>
+
+### Terminal Output: 
 
 ```
              Statistics                
