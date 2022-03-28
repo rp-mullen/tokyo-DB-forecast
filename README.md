@@ -11,7 +11,7 @@ Both scripts require a [MariaDB](https://mariadb.com/get-started-with-mariadb/) 
 
 ## Usage
 
-To Schedule:
+To schedule the main script to run hourly, run the following commands in the terminal:
 ```
 chmod +x main.py
 sudo crontab -e
