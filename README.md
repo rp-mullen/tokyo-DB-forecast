@@ -32,7 +32,7 @@ python predictor.py
 
 ## Example Output:
 <p align="center">
-  <img src="https://github.com/rp-mullen/tokyo-weather/blob/main/output.png"/>
+  <img src="https://github.com/rp-mullen/tokyo-weather/blob/main/output_figure.png"/>
 </p>
 
 ### Terminal Output: 
