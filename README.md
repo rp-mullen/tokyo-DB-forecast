@@ -40,9 +40,9 @@ python predictor.py
 ```
              Statistics                
 ---------------------------------------
-* data range (days): [10] - [28]
-* determination coefficient: 0.15587487339566208
-* intercept: 291.5791153369279
-* coefficient: [-0.35248383]
+* data range (days): [10] - [29]
+* determination coefficient: 0.14006052323794294
+* intercept: 290.73668581406156
+* coefficient: [-0.29955424]
 
 ```
