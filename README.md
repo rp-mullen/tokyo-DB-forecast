@@ -35,6 +35,8 @@ python predictor.py
   <img src="https://github.com/rp-mullen/tokyo-weather/blob/main/output_figure.png"/>
 </p>
 
+The top subplot shows the scatterplot of the actual recorded temperature data over the listed span of days. The bottom subplot shows the forecasted temperature for the days following the last day which data was recorded. Note that, as the number of days past the last recorded day increases, the linear regression will become less reliable as a statistical predictor of the city's temperature. 
+
 ### Terminal Output: 
 
 ```
