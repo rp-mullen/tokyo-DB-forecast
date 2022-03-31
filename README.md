@@ -1,6 +1,6 @@
 ## Description
 
-This app was written as an exercise for automating relational DB data entry and interfacing with scripts to perform statistical analysis and inference on the stored data.
+This app was written as an exercise for automating relational DB data entry and interfacing with python scripts to perform statistical analysis and inference on the stored data.
 
 The ``main.py`` script is designed to run repetitively, and logs the hourly weather in Tokyo to a
 local MariaDB database.
