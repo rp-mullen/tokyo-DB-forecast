@@ -13,7 +13,7 @@ Both scripts require a [MariaDB](https://mariadb.com/get-started-with-mariadb/) 
 
 ## Usage
 
-To schedule the main script to run hourly in a UNIX/Linux environment, run the following commands in the terminal:
+To schedule the main script to run hourly in a UNIX/Linux environment, cd into the script's directory and run the following commands in the terminal:
 ```
 chmod +x main.py
 sudo crontab -e
